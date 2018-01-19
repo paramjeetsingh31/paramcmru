@@ -1,0 +1,9 @@
+how to make an github account
+first entering username,email,password
+made a terminal account
+opened idle app for programes
+entered programe for name
+used programes with some errors to find our mistake
+programe for addition, subtraction,multiplication, division
+pragrame using variables
+programe using int and float 
